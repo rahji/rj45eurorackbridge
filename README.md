@@ -1,8 +1,8 @@
-# RJ45 Eurorack Bridge
+# Portable RJ45-to-Eurorack Bridge
 
 ## A system that allows impromptu collaboration between Eurorack modular synthesists, while maintaining an appropriate distance during the COVID-19 pandemic.
 
-This is essentially a breakout for a shielded RJ45 jack. Each pin of the RJ45 jack is connected to the tip of a 3.5mm jack (the Eurorack standard for patch cables). Connecting a *shielded* Ethernet cable between two of these essentially allows eight CV or audio signals to reach across a long distance, from one modular synth to another.
+This is essentially a breakout for a shielded RJ45 jack. Each of the 8 pins of the RJ45 jack is connected to the tip of a 3.5mm jack (the Eurorack standard for patch cables). Connecting a *shielded* Ethernet cable between two of these essentially allows eight CV or audio signals to reach across a long distance, from one modular synth to another.
 
 ### Ideas
 
