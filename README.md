@@ -16,7 +16,7 @@ A system that allows impromptu collaboration between Eurorack modular synthesist
 * Have your collaborator do the above, then meet up and create sound together, while maintaining a safe distance.
 * Consider working/performing outdoors, over a fence, from neighboring houses, or in separate cars.
 * Indoors, try collaborating blindly while in separate rooms without telling each other what kind of signal is on each of the jacks. Change them mid-performance.
-* Labeling the jacks isn't so useful if your partner labels them differently. That fine though - it might force 
+* Labeling the jacks isn't so useful if your partner labels them differently. That fine though - it might force experimentation, chance, and fortunate mishaps.
 * **Don't connect the other end of the ethernet cable to anything other than another one of these devices***
 
 ## Build Tips
