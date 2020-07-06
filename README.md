@@ -2,7 +2,6 @@
 
 A system that allows impromptu collaboration between Eurorack modular synthesists, while maintaining an appropriate distance during the COVID-19 pandemic.
 
-
 ## Build
 
 1. Make the circuitboard using the files provided (or buy it from https://oshpark.com/shared_projects/3NctJJYb)
@@ -14,7 +13,14 @@ A system that allows impromptu collaboration between Eurorack modular synthesist
 
 ## Ideas
 
-* Have your collaborator do the above (remember that Oshpark gives you three PCBs), then meet up and create sound together, while maintaining a safe distance.
+* Have your collaborator do the above, then meet up and create sound together, while maintaining a safe distance.
 * Consider working/performing outdoors, over a fence, from neighboring houses, or in separate cars.
 * Indoors, try collaborating blindly while in separate rooms without telling each other what kind of signal is on each of the jacks. Change them mid-performance.
+* Labeling the jacks isn't so useful if your partner labels them differently. That fine though - it might force 
 * **Don't connect the other end of the ethernet cable to anything other than another one of these devices***
+
+## Build Tips
+
+* Remember that Oshpark gives you 3 PCBs when you order!
+* If you use a different PCB fab service, make sure the castellated holes aren't going to be a problem (ie: they should to be plated)
+* When soldering the jacks on, it's easiest if you bend in the pin that connects to the castellated hole before inserting it into the pcb. Heat the pin from the outside and apply solder at the point where the castellated hole is.
