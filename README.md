@@ -4,7 +4,7 @@
 
 This is essentially a breakout for a shielded RJ45 jack. Each pin of the RJ45 jack is connected to the tip of a 3.5mm jack (the Eurorack standard for patch cables). Connecting a *shielded* Ethernet cable between two of these essentially allows eight CV or audio signals to reach across a long distance, from one modular synth to another.
 
-## Ideas
+### Ideas
 
 * You and your collaborator each build one of these, then meet up and create sound together, while maintaining a safe distance.
 * Consider working/performing outdoors, over a fence, from neighboring houses, or in separate cars.
@@ -14,7 +14,7 @@ This is essentially a breakout for a shielded RJ45 jack. Each pin of the RJ45 ja
 
 ![Two Units with Yellow Cable and Aluminum Enclosure](/photos/two_units_with_yellow_cable.jpg)
 
-## Build
+### Build
 
 1. Make the circuitboard using the files provided (or buy it from https://oshpark.com/shared_projects/3NctJJYb)
 2. Solder the required components
@@ -23,7 +23,7 @@ This is essentially a breakout for a shielded RJ45 jack. Each pin of the RJ45 ja
 3. Make an enclosure using the template provided or purchase a Hammond Manufacturing 1590A diecast aluminum enclosure p/n 1590A from [Mouser](https://www.mouser.com/ProductDetail/Hammond-Manufacturing/1590A?qs=lxPAlgZqN%2Fx6Rw4O%2FIXFww%3D%3D)
 4. Get a hold of a *shielded* ethernet cable  
 
-## Build Tips
+### Build Tips
 
 * Remember that Oshpark gives you 3 PCBs when you order!
 * If you use a different PCB fab service, make sure the castellated holes aren't going to be a problem (ie: they should to be plated)
