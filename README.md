@@ -50,5 +50,5 @@ A: The [GPL license](https://github.com/rahji/rj45eurorackbridge/blob/master/LIC
 A: Because it's an important message to have anywhere and everywhere. More info to follow on this one.
 
 ![Two PCBs, After Soldering](/photos/two_units_after_soldering.jpg)
-![Two PCBs, After Soldering](/photos/two_units_after_soldering.jpg)
+![Two PCBs, Front and Back](/photos/pcb_back_and_front.jpg)
 
