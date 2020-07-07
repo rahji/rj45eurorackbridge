@@ -37,17 +37,17 @@ This is essentially a breakout for a shielded RJ45 jack. Each of the 8 pins of t
 
 ### FAQ
 
-**Q: Haven't I seen this before?**
-A: Other patch cable bridges/busses definitely exist, although I've only seen them as modules or integrated into a case. The idea with this one is that it's portable, shareable, and doesn't take up real estate in the case when you're not collaborating. With that said, you can of course use it to connect two of your own cases, as you would with a module like Intellijel's Octalink, the Doepfer A-180-9, or the ADDAC213 Eurorack Bridge.
+- **Haven't I seen this before?**
+  - Other patch cable bridges/busses definitely exist, although I've only seen them as modules or integrated into a case. The idea with this one is that it's portable, shareable, and doesn't take up real estate in the case when you're not collaborating. With that said, you can of course use it to connect two of your own cases, as you would with a module like Intellijel's Octalink, the Doepfer A-180-9, or the ADDAC213 Eurorack Bridge.
 
-**Q: Can I connect this to an ethernet hub/switch or a computer?**
-A: Don't do that. Don't connect the other end of the ethernet cable to anything other than another one of these devices. You could probably connect it to one of the modules listed in the previous FAQ but I haven't tried it.
+- **Can I connect this to an ethernet hub/switch or a computer?**
+  - Don't do that. Don't connect the other end of the ethernet cable to anything other than another one of these devices. You could probably connect it to one of the modules listed in the previous FAQ but I haven't tried it.
 
-**Q: Can I make these and sell them?**
-A: The [GPL license](https://github.com/rahji/rj45eurorackbridge/blob/master/LICENSE) allows you to do this, with certain conditions. This is meant to be an inexpensive DIY project, not an overpriced product for you to sell at a 300% markup on Tindie. No matter what, please don't remove the Black Lives Matter silkscreen (see below).
+- **Can I make these and sell them?**
+  - The [GPL license](https://github.com/rahji/rj45eurorackbridge/blob/master/LICENSE) allows you to do this, with certain conditions. This is meant to be an inexpensive DIY project, not an overpriced product for you to sell at a 300% markup on Tindie. No matter what, please don't remove the Black Lives Matter silkscreen (see below).
 
-**Q: Why does the PCB say Black Lives Matter?**
-A: Because it's an important message to have anywhere and everywhere. More info to follow on this one.
+- **Why does the PCB say Black Lives Matter?**
+  - Because it's an important message to have anywhere and everywhere. (More info to follow on this one.)
 
 ![Two PCBs, After Soldering](/photos/two_units_after_soldering.jpg)
 ![Two PCBs, Front and Back](/photos/pcb_back_and_front.jpg)
