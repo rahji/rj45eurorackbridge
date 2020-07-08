@@ -47,7 +47,7 @@ This is essentially a breakout for a shielded RJ45 jack. Each of the 8 pins of t
   - The [GPL license](https://github.com/rahji/rj45eurorackbridge/blob/master/LICENSE) allows you to do this, with certain conditions. This is meant to be an inexpensive DIY project, not an overpriced product for you to sell at a 300% markup on Tindie. No matter what, please don't remove the Black Lives Matter silkscreen (see below).
 
 - **Why does the PCB say Black Lives Matter?**
-  - Because it's an important message to have anywhere and everywhere. (More info to follow on this one.)
+  - Because it's an important message to have anywhere and everywhere. See https://github.com/rahji/blacklivesmatter-eagle-lib
 
 ![Two PCBs, After Soldering](/photos/two_units_after_soldering.jpg)
 ![Two PCBs, Front and Back](/photos/pcb_back_and_front.jpg)
