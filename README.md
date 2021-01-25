@@ -20,7 +20,7 @@ This is essentially a breakout for a shielded RJ45 jack. Each of the 8 pins of t
 
 ### Build
 
-1. Make the circuitboard using the files provided (or [import it directly to OSH Park](https://oshpark.com/import?url=https://raw.githubusercontent.com/rahji/rj45eurorackbridge/master/eagle/RJ45_EURORACK_BRIDGE_castellated.brd)
+1. Make the circuitboard using the files provided or [import it directly to OSH Park](https://oshpark.com/import?url=https://raw.githubusercontent.com/rahji/rj45eurorackbridge/master/eagle/RJ45_EURORACK_BRIDGE_castellated.brd)
 2. Solder the required components
   * 1 x Wurth Elecktronik Shielded Ethernet Connector p/n 615008140421 from [Mouser](https://www.mouser.com/ProductDetail/Wurth-Elektronik/615008140421?qs=%2Fha2pyFadujj32eJSvwd90ECqRKXOEYbwVGH%2FNq2N1eMDIxBQFOhvg%3D%3D)
   * 8 x PJ301M-12 3.5mm switching mono jacks (aka Thonkiconn) from [Thonk](https://www.thonk.co.uk/shop/3-5mm-jacks/), [AI Synthesis](https://aisynthesis.com/product/3-5mm-eurorack-jack-thonk-pj301m-12/), [Control](https://www.ctrl-mod.com/products/3-5mm-eurorack-jacks), [synthCube](https://synthcube.com/cart/3-5mm-euro-jacks), etc
